@@ -1,3 +1,10 @@
+# Nathan Li's First CS193 Homework
+
+My favorite things about CS193:
+- The courses teaches some very important tools for building larger projects
+- The instructors are students and have experience in the classes we are taking
+- No exams, meaning I can focus solely on interesting topics in this course
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
